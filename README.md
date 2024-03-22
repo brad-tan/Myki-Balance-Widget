@@ -1,6 +1,9 @@
 # Myki Balance Widget (Scriptable)
 
-A handy Scriptable widget to display your Myki balance directly on your iOS home screen! Stay on top of your myki funds in the Melbourne, Australia. This relies on the PTV API but amazingly doesn't require an API key.
+A handy Scriptable widget to display your Myki balance directly on your iOS home screen.
+Stay on top of your Myki funds in the Melbourne, Australia (at least until contactless bank card payments are added to the Myki system). 
+
+This relies on the PTV API but amazingly doesn't require an API key.
 
 ![IMG_99B71EED3BEB-1-preview](https://github.com/brad-tan/Myki-Balance-Widget/assets/105221827/7fe3c9d6-2d57-48c1-bd75-1b55148fb5bb)
 
@@ -15,7 +18,7 @@ A handy Scriptable widget to display your Myki balance directly on your iOS home
 
 ## Prerequisites
 
-* **Scriptable App:** Download Scriptable from the App Store ([https://apps.apple.com/us/app/scriptable/id1406049200](https://apps.apple.com/us/app/scriptable/id1406049200))
+* **Scriptable App:** Download Scriptable from the App Store [https://apps.apple.com/au/app/scriptable/id1405459188]
 * **Myki Card Number:**  Have your Myki card number handy
 
 ## Installation
